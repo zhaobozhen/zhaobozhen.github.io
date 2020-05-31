@@ -1,10 +1,10 @@
 # Site settings
 title: Absinthe's Blog
 SEOTitle: Absinthe的博客 | Absinthe's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.png
 email: zhaobozhen2025@gmail.com
-description: "Every failure is leading towards success."
-keyword: "Absinthe, Absinthe's Blog, Absinthe的博客, zhaobozhen, Android"
+description: "A day is a miniature of eternity"
+keyword: "Absinthe, Android, Anywhere-, LibChecker"
 url: "http://zhaobozhen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhaobozhen/zhaobozhen.github.io.git" # you code repository
