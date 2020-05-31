@@ -1,9 +1,9 @@
 # Site settings
 title: Absinthe's Blog
-SEOTitle: Absinthe的博客 | Absinthe's Blog
+SEOTitle: Absinthe's Blog
 header-img: img/post-bg-desk.png
 email: zhaobozhen2025@gmail.com
-description: "A day is a miniature of eternity"
+description: "A day is a miniature of eternity."
 keyword: "Absinthe, Android, Anywhere-, LibChecker"
 url: "http://zhaobozhen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/zhaobozhen/zhaobozhen.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "A day is a miniature of eternity."
 sidebar-avatar: /img/Rabbit_Sqr.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
